@@ -1,0 +1,20 @@
+[0.352s] Invoking command in '/home/mariobo/betaflight_ws/build/betaflight_bridge': PYTHONPATH=/home/mariobo/betaflight_ws/build/betaflight_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mariobo/betaflight_ws/install/betaflight_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mariobo/betaflight_ws/build/betaflight_bridge/build --no-deps symlink_data
+[0.504s] running develop
+[0.504s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.504s]   warnings.warn(
+[0.588s] running egg_info
+[0.589s] writing betaflight_bridge.egg-info/PKG-INFO
+[0.589s] writing dependency_links to betaflight_bridge.egg-info/dependency_links.txt
+[0.589s] writing entry points to betaflight_bridge.egg-info/entry_points.txt
+[0.589s] writing requirements to betaflight_bridge.egg-info/requires.txt
+[0.590s] writing top-level names to betaflight_bridge.egg-info/top_level.txt
+[0.591s] reading manifest file 'betaflight_bridge.egg-info/SOURCES.txt'
+[0.591s] writing manifest file 'betaflight_bridge.egg-info/SOURCES.txt'
+[0.592s] running build_ext
+[0.592s] Creating /home/mariobo/betaflight_ws/install/betaflight_bridge/lib/python3.10/site-packages/betaflight-bridge.egg-link (link to .)
+[0.593s] Installing betaflight_bridge script to /home/mariobo/betaflight_ws/install/betaflight_bridge/lib/betaflight_bridge
+[0.593s] Installing mock_flight_controller script to /home/mariobo/betaflight_ws/install/betaflight_bridge/lib/betaflight_bridge
+[0.594s] 
+[0.594s] Installed /home/mariobo/betaflight_ws/build/betaflight_bridge
+[0.594s] running symlink_data
+[0.610s] Invoked command in '/home/mariobo/betaflight_ws/build/betaflight_bridge' returned '0': PYTHONPATH=/home/mariobo/betaflight_ws/build/betaflight_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mariobo/betaflight_ws/install/betaflight_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mariobo/betaflight_ws/build/betaflight_bridge/build --no-deps symlink_data

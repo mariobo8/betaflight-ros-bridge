@@ -1,0 +1,25 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating betaflight_bridge.egg-info
+writing betaflight_bridge.egg-info/PKG-INFO
+writing dependency_links to betaflight_bridge.egg-info/dependency_links.txt
+writing entry points to betaflight_bridge.egg-info/entry_points.txt
+writing requirements to betaflight_bridge.egg-info/requires.txt
+writing top-level names to betaflight_bridge.egg-info/top_level.txt
+writing manifest file 'betaflight_bridge.egg-info/SOURCES.txt'
+reading manifest file 'betaflight_bridge.egg-info/SOURCES.txt'
+writing manifest file 'betaflight_bridge.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mariobo/betaflight_ws/install/betaflight_bridge/lib/python3.10/site-packages/betaflight-bridge.egg-link (link to .)
+Installing betaflight_bridge script to /home/mariobo/betaflight_ws/install/betaflight_bridge/lib/betaflight_bridge
+Installing mock_flight_controller script to /home/mariobo/betaflight_ws/install/betaflight_bridge/lib/betaflight_bridge
+
+Installed /home/mariobo/betaflight_ws/build/betaflight_bridge
+running symlink_data
+creating /home/mariobo/betaflight_ws/install/betaflight_bridge/share/ament_index
+creating /home/mariobo/betaflight_ws/install/betaflight_bridge/share/ament_index/resource_index
+creating /home/mariobo/betaflight_ws/install/betaflight_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/mariobo/betaflight_ws/build/betaflight_bridge/resource/betaflight_bridge -> /home/mariobo/betaflight_ws/install/betaflight_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/mariobo/betaflight_ws/build/betaflight_bridge/package.xml -> /home/mariobo/betaflight_ws/install/betaflight_bridge/share/betaflight_bridge

@@ -1,0 +1,4 @@
+[console_scripts]
+betaflight_bridge = betaflight_bridge.betaflight_bridge:main
+mock_flight_controller = betaflight_bridge.mock_flight_controller:main
+

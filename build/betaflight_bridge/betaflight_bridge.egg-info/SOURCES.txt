@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+betaflight_bridge/__init__.py
+betaflight_bridge/betaflight_bridge.py
+betaflight_bridge/mock_flight_controller.py
+betaflight_bridge.egg-info/PKG-INFO
+betaflight_bridge.egg-info/SOURCES.txt
+betaflight_bridge.egg-info/dependency_links.txt
+betaflight_bridge.egg-info/entry_points.txt
+betaflight_bridge.egg-info/requires.txt
+betaflight_bridge.egg-info/top_level.txt
+betaflight_bridge.egg-info/zip-safe
+resource/betaflight_bridge
